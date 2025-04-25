@@ -16,7 +16,9 @@ Wallpaper components provide background images for various screens throughout th
   - `Recently Played.png` - Recently played list background
   - `Tools.png` - Tools menu background
   - `Collections.png` - Collections menu background
-  - `Game Boy Advance (GBA).png` - System-specific background (include tag)
+  - `Game Boy Advance (GBA).png` - Main menu system background (include tag)
+- `ListWallpapers/` - System-list specific backgrounds
+  - `Game Boy Advance (GBA)-list.png` - System-list specific background (include tag and `-list`)
 - `CollectionWallpapers/` - Wallpapers for user collections
   - `Favorites.png` - Background for the Favorites collection
 
@@ -52,4 +54,4 @@ Make sure to include these critical wallpapers:
 - Consider how your wallpapers will look with different accent colors
 - Creating matching sets for all systems creates a cohesive experience
 
-## For more information, see the full component documentation
+## For more information, see the [full component documentation.](https://github.com/Leviathanium/NextUI-Theme-Manager/blob/main/documents/COMPONENT_BUILDING.md)
